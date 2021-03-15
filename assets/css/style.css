@@ -286,7 +286,7 @@ a:active {
 }
 
 .sidebar .logo-title .title img {
-    width: 127px;
+    width: 350px;
     border-radius: 50%;
 }
 
@@ -893,7 +893,7 @@ print {
     }
 
     .sidebar .logo-title .title img {
-        width: 100px;
+        width: 150px;
     }
 
     .sidebar .logo-title .title h3 {
