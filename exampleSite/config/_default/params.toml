@@ -57,3 +57,8 @@ url = "https://www.instagram.com/"
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:mail@example.com"
+
+[[socialIcons]]
+customIcon = "/images/leetcode.svg"
+title = "leetcode"
+url = "https://leetcode.com/longtermist/"
