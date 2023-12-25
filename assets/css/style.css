@@ -1252,8 +1252,8 @@ a.btn {
   border: 1px solid var(--form-button-hover-border-color);
 }
 .social-links img.custom-svg-icon {
-  height: 1em; /* Adjust based on your design */
-  width: 1em; /* Maintain the aspect ratio */
+  height: 2em; /* Adjust based on your design */
+  width: 2em; /* Maintain the aspect ratio */
   vertical-align: -0.125em; /* Adjust this value as needed */
   display: inline-block; /* Ensures the image behaves like text */
 }
