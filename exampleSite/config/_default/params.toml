@@ -59,6 +59,8 @@ title = "e-mail"
 url = "mailto:mail@example.com"
 
 [[socialIcons]]
-customIcon = "/images/leetcode.svg"
+customSVG = true
 title = "leetcode"
 url = "https://leetcode.com/longtermist/"
+svgPath = "/images/leetcode.svg"
+
