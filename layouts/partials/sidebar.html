@@ -22,7 +22,7 @@
         <li>
           {{ if $item.customSVG }}
             <a href="{{ $item.url }}" rel="me" aria-label="Custom Icon">
-              <img src="{{ $item.svgPath | relURL }}" alt="Custom Icon" class="fa-2x" />
+              <img src="{{ $item.svgPath | relURL }}" alt="Custom Icon" class="custom-svg-icon" />
             </a>
 
           {{ else }}
